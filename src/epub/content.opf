@@ -138,6 +138,12 @@
 		<item href="images/illustration-29.svg" id="illustration-29.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-30.svg" id="illustration-30.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-31.svg" id="illustration-31.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-32.jpg" id="illustration-32.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-33.svg" id="illustration-33.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-34.svg" id="illustration-34.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-35.svg" id="illustration-35.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-36.svg" id="illustration-36.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-37.svg" id="illustration-37.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/macb1.gif" id="macb1.gif" media-type="image/gif"/>
 		<item href="images/macb2.gif" id="macb2.gif" media-type="image/gif"/>
@@ -154,12 +160,6 @@
 		<item href="images/othello5.gif" id="othello5.gif" media-type="image/gif"/>
 		<item href="images/perci1.gif" id="perci1.gif" media-type="image/gif"/>
 		<item href="images/perci2.gif" id="perci2.gif" media-type="image/gif"/>
-		<item href="images/rj1.gif" id="rj1.gif" media-type="image/gif"/>
-		<item href="images/rj2.gif" id="rj2.gif" media-type="image/gif"/>
-		<item href="images/rj3.gif" id="rj3.gif" media-type="image/gif"/>
-		<item href="images/rj4.gif" id="rj4.gif" media-type="image/gif"/>
-		<item href="images/rj5.gif" id="rj5.gif" media-type="image/gif"/>
-		<item href="images/rj6.gif" id="rj6.gif" media-type="image/gif"/>
 		<item href="images/shrew1.gif" id="shrew1.gif" media-type="image/gif"/>
 		<item href="images/shrew2.gif" id="shrew2.gif" media-type="image/gif"/>
 		<item href="images/shrew3.gif" id="shrew3.gif" media-type="image/gif"/>
@@ -203,7 +203,7 @@
 		<item href="text/pericles.xhtml" id="pericles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/quotations-from-shakespeare.xhtml" id="quotations-from-shakespeare.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/romeo-and-juliet.xhtml" id="romeo-and-juliet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/romeo-and-juliet.xhtml" id="romeo-and-juliet.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-comedy-of-errors.xhtml" id="the-comedy-of-errors.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-merchant-of-venice.xhtml" id="the-merchant-of-venice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-taming-of-the-shrew.xhtml" id="the-taming-of-the-shrew.xhtml" media-type="application/xhtml+xml"/>
