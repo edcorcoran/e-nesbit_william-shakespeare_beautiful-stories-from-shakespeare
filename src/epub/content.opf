@@ -160,15 +160,15 @@
 		<item href="images/illustration-63.svg" id="illustration-63.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-64.svg" id="illustration-64.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-65.svg" id="illustration-65.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-66.svg" id="illustration-66.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-67.svg" id="illustration-67.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-68.svg" id="illustration-68.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-69.svg" id="illustration-69.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-70.svg" id="illustration-70.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/measure1.gif" id="measure1.gif" media-type="image/gif"/>
 		<item href="images/measure2.gif" id="measure2.gif" media-type="image/gif"/>
 		<item href="images/measure3.gif" id="measure3.gif" media-type="image/gif"/>
-		<item href="images/othello1.gif" id="othello1.gif" media-type="image/gif"/>
-		<item href="images/othello2.gif" id="othello2.gif" media-type="image/gif"/>
-		<item href="images/othello3.gif" id="othello3.gif" media-type="image/gif"/>
-		<item href="images/othello4.gif" id="othello4.gif" media-type="image/gif"/>
-		<item href="images/othello5.gif" id="othello5.gif" media-type="image/gif"/>
 		<item href="images/shrew1.gif" id="shrew1.gif" media-type="image/gif"/>
 		<item href="images/shrew2.gif" id="shrew2.gif" media-type="image/gif"/>
 		<item href="images/shrew3.gif" id="shrew3.gif" media-type="image/gif"/>
@@ -199,7 +199,7 @@
 		<item href="text/macbeth.xhtml" id="macbeth.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/measure-for-measure.xhtml" id="measure-for-measure.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/much-ado-about-nothing.xhtml" id="much-ado-about-nothing.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/othello.xhtml" id="othello.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/othello.xhtml" id="othello.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/pericles.xhtml" id="pericles.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/quotations-from-shakespeare.xhtml" id="quotations-from-shakespeare.xhtml" media-type="application/xhtml+xml"/>
