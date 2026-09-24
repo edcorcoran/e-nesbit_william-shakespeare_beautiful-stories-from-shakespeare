@@ -151,6 +151,11 @@
 		<item href="images/illustration-54.svg" id="illustration-54.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-55.svg" id="illustration-55.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-56.svg" id="illustration-56.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-57.jpg" id="illustration-57.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-58.svg" id="illustration-58.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-59.svg" id="illustration-59.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-60.svg" id="illustration-60.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-61.svg" id="illustration-61.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/measure1.gif" id="measure1.gif" media-type="image/gif"/>
 		<item href="images/measure2.gif" id="measure2.gif" media-type="image/gif"/>
@@ -169,11 +174,6 @@
 		<item href="images/timon3.gif" id="timon3.gif" media-type="image/gif"/>
 		<item href="images/timon4.gif" id="timon4.gif" media-type="image/gif"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="images/venice1.gif" id="venice1.gif" media-type="image/gif"/>
-		<item href="images/venice2.gif" id="venice2.gif" media-type="image/gif"/>
-		<item href="images/venice3.gif" id="venice3.gif" media-type="image/gif"/>
-		<item href="images/venice4.gif" id="venice4.gif" media-type="image/gif"/>
-		<item href="images/venice5.gif" id="venice5.gif" media-type="image/gif"/>
 		<item href="images/verona1.gif" id="verona1.gif" media-type="image/gif"/>
 		<item href="images/verona2.gif" id="verona2.gif" media-type="image/gif"/>
 		<item href="images/verona3.gif" id="verona3.gif" media-type="image/gif"/>
@@ -205,7 +205,7 @@
 		<item href="text/quotations-from-shakespeare.xhtml" id="quotations-from-shakespeare.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/romeo-and-juliet.xhtml" id="romeo-and-juliet.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-comedy-of-errors.xhtml" id="the-comedy-of-errors.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-merchant-of-venice.xhtml" id="the-merchant-of-venice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-merchant-of-venice.xhtml" id="the-merchant-of-venice.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-taming-of-the-shrew.xhtml" id="the-taming-of-the-shrew.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tempest.xhtml" id="the-tempest.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-winters-tale.xhtml" id="the-winters-tale.xhtml" media-type="application/xhtml+xml" properties="svg"/>
