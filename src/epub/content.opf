@@ -165,14 +165,14 @@
 		<item href="images/illustration-68.svg" id="illustration-68.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-69.svg" id="illustration-69.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-70.svg" id="illustration-70.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-71.jpg" id="illustration-71.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-72.svg" id="illustration-72.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-73.svg" id="illustration-73.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-74.svg" id="illustration-74.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/measure1.gif" id="measure1.gif" media-type="image/gif"/>
 		<item href="images/measure2.gif" id="measure2.gif" media-type="image/gif"/>
 		<item href="images/measure3.gif" id="measure3.gif" media-type="image/gif"/>
-		<item href="images/shrew1.gif" id="shrew1.gif" media-type="image/gif"/>
-		<item href="images/shrew2.gif" id="shrew2.gif" media-type="image/gif"/>
-		<item href="images/shrew3.gif" id="shrew3.gif" media-type="image/gif"/>
-		<item href="images/shrew4.gif" id="shrew4.gif" media-type="image/gif"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="images/verona1.gif" id="verona1.gif" media-type="image/gif"/>
 		<item href="images/verona2.gif" id="verona2.gif" media-type="image/gif"/>
@@ -206,7 +206,7 @@
 		<item href="text/romeo-and-juliet.xhtml" id="romeo-and-juliet.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-comedy-of-errors.xhtml" id="the-comedy-of-errors.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-merchant-of-venice.xhtml" id="the-merchant-of-venice.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the-taming-of-the-shrew.xhtml" id="the-taming-of-the-shrew.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-taming-of-the-shrew.xhtml" id="the-taming-of-the-shrew.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-tempest.xhtml" id="the-tempest.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-winters-tale.xhtml" id="the-winters-tale.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/timon-of-athens.xhtml" id="timon-of-athens.xhtml" media-type="application/xhtml+xml" properties="svg"/>
