@@ -37,14 +37,15 @@
 		<dc:subject id="subject-2">Shakespeare, William, 1564-1616--Stories, plots, etc.--Juvenile literature</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="schema:genre">TAG</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
+		<meta property="schema:genre">Children’s</meta>
+		<meta property="schema:abstract">Retellings of Shakespeare’s plays for young readers.</meta>
 		<dc:description>
-			DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit"&gt;E. Nesbit&lt;/a&gt; was an English writer who published numerous books for children. &lt;i&gt;Beautiful Stories from Shakespeare&lt;/i&gt; is a collection of short prose retellings of twenty of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; plays. E. Nesbit condensed the stories to ensure they are understood by children and that children will find them entertaining. Some Shakespearean language is retained, but the emphasis is on the story.&lt;/p&gt;
+			&lt;p&gt;The American edition, edited by E. T. Roe, includes a short biography of Shakespeare, a pronunciation guide for names and a list of famous Shakespearean quotations grouped by theme. It also includes illustrations and colored plates by Max Bihn. We have reproduced these illustrations and plates in the Standard Ebooks edition of the book.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1430</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://archive.org/details/twentybeautifuls0000wmsh</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="https://en.wikipedia.org/wiki/Beautiful_Stories_from_Shakespeare" rel="schema:sameAs"/>
@@ -53,42 +54,50 @@
 		<link href="https://github.com/standardebooks/e-nesbit_william-shakespeare_beautiful-stories-from-shakespeare" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author-1">E. Nesbit</dc:creator>
 		<meta property="file-as" refines="#author-1">Nesbit, E.</meta>
-		<meta property="schema:alternateName" refines="#author-1">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="schema:alternateName" refines="#author-1">Edith Nesbit Bland</meta>
 		<link href="https://en.wikipedia.org/wiki/E._Nesbit" refines="#author-1" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85097242.html" refines="#author-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">William Shakespeare</dc:creator>
 		<meta property="file-as" refines="#author-2">Shakespeare, William</meta>
-		<meta property="schema:alternateName" refines="#author-2">CONTRIBUTOR_FULL_NAME</meta>
 		<link href="https://en.wikipedia.org/wiki/William_Shakespeare" refines="#author-2" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78095332.html" refines="#author-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
+		<dc:contributor id="illustrator">Max Bihn</dc:contributor>
+		<meta property="file-as" refines="#illustrator">Bihn, Max</meta>
+		<link href="https://id.loc.gov/authorities/names/no2005003790.html" refines="#illustrator" rel="schema:sameAs"/>
+		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
+		<dc:contributor id="editor">E. T. Roe</dc:contributor>
+		<meta property="file-as" refines="#editor">Roe, E. T.</meta>
+		<meta property="schema:alternateName" refines="#editor">Edward Thomas Roe</meta>
+		<link href="https://id.loc.gov/authorities/names/n83230843.html" refines="#editor" rel="schema:sameAs"/>
+		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">wfw</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
 		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Morrie Wilson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wilson, Morrie</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">James Rose</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Rose, James</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Edward Corcoran</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Corcoran, Edward</meta>
+		<link href="https://www.corcoranfamilyoffice.org/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
