@@ -4,6 +4,13 @@
 		<ignore code="t-057">
 			<reason>Pronunciation glossdef values intentionally start with a lower case letter</reason>
 		</ignore>
+		<ignore code="x-019">
+			<line>252</line>
+			<line>528</line>
+			<line>642</line>
+			<line>672</line>
+			<reason>Four glossary entries have names identical to chapters. Those have been suffixed with -glossary to ensure uniqueness but that causes linting error x-019 since the ID no longer matches the term.</reason>
+		</ignore>
 	</file>
 	<file path="quotations-from-shakespeare.xhtml">
 		<ignore code="t-060">

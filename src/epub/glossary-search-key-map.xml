@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#adriana">
+		<match value="Adriana"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#aegeon">
+		<match value="Aegeon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#aemilia">
+		<match value="Aemilia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#alcibiades">
+		<match value="Alcibiades"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#aliena">
+		<match value="Aliena"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#angelo">
+		<match value="Angelo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#antioch">
+		<match value="Antioch"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#antiochus">
+		<match value="Antiochus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#antipholus">
+		<match value="Antipholus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#antonio">
+		<match value="Antonio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#apemantus">
+		<match value="Apemantus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#apollo">
+		<match value="Apollo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ariel">
+		<match value="Ariel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#arragon">
+		<match value="Arragon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#banquo">
+		<match value="Banquo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#baptista">
+		<match value="Baptista"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bassanio">
+		<match value="Bassanio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#beatrice">
+		<match value="Beatrice"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bellario">
+		<match value="Bellario"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bellarius">
+		<match value="Bellarius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#benedick">
+		<match value="Benedick"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#benvolio">
+		<match value="Benvolio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bertram">
+		<match value="Bertram"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bianca">
+		<match value="Bianca"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#borachio">
+		<match value="Borachio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#brabantio">
+		<match value="Brabantio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#burgundy">
+		<match value="Burgundy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#caliban">
+		<match value="Caliban"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#camillo">
+		<match value="Camillo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#capulet">
+		<match value="Capulet"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cassio">
+		<match value="Cassio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#celia">
+		<match value="Celia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#centaur">
+		<match value="Centaur"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cerimon">
+		<match value="Cerimon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cesario">
+		<match value="Cesario"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#claudio">
+		<match value="Claudio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#claudius">
+		<match value="Claudius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cordelia">
+		<match value="Cordelia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cornwall">
+		<match value="Cornwall"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cymbeline-glossary">
+		<match value="Cymbeline"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#demetrius">
+		<match value="Demetrius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#desdemona">
+		<match value="Desdemona"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#diana">
+		<match value="Diana"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dionyza">
+		<match value="Dionyza"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#donalbain">
+		<match value="Donalbain"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#doricles">
+		<match value="Doricles"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dromio">
+		<match value="Dromio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#duncan">
+		<match value="Duncan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#emilia">
+		<match value="Emilia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ephesus">
+		<match value="Ephesus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#escalus">
+		<match value="Escalus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ferdinand">
+		<match value="Ferdinand"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#flaminius">
+		<match value="Flaminius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#flavius">
+		<match value="Flavius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fleance">
+		<match value="Fleance"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#florizel">
+		<match value="Florizel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ganymede">
+		<match value="Ganymede"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#giulio">
+		<match value="Giulio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#goneril">
+		<match value="Goneril"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gonzalo">
+		<match value="Gonzalo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#helena">
+		<match value="Helena"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#helicanus">
+		<match value="Helicanus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hercules">
+		<match value="Hercules"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hermia">
+		<match value="Hermia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hermione">
+		<match value="Hermione"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#horatio">
+		<match value="Horatio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hortensio">
+		<match value="Hortensio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#iachimo">
+		<match value="Iachimo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#iago">
+		<match value="Iago"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#illyria">
+		<match value="Illyria"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#imogen">
+		<match value="Imogen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jessica">
+		<match value="Jessica"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#juliet">
+		<match value="Juliet"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#laertes">
+		<match value="Laertes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lafeu">
+		<match value="Lafeu"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lear">
+		<match value="Lear"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#leodovico">
+		<match value="Leodovico">
+			<value value="Lodovico"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#leonato">
+		<match value="Leonato"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#leontes">
+		<match value="Leontes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#luciana">
+		<match value="Luciana"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lucio">
+		<match value="Lucio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lucius">
+		<match value="Lucius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lucullus">
+		<match value="Lucullus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lysander">
+		<match value="Lysander"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lysimachus">
+		<match value="Lysimachus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#macbeth-glossary">
+		<match value="Macbeth"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#magdalen">
+		<match value="Magdalen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#malcolm">
+		<match value="Malcolm"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#malvolio">
+		<match value="Malvolio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mantua">
+		<match value="Mantua"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mariana">
+		<match value="Mariana"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#menaphon">
+		<match value="Menaphon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mercutio">
+		<match value="Mercutio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#messina">
+		<match value="Messina"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#milan">
+		<match value="Milan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#miranda">
+		<match value="Miranda"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mitylene">
+		<match value="Mitylene"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#montagu">
+		<match value="Montagu"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#montano">
+		<match value="Montano"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#oberon">
+		<match value="Oberon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#olivia">
+		<match value="Olivia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ophelia">
+		<match value="Ophelia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#orlando">
+		<match value="Orlando"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#orsino">
+		<match value="Orsino"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#othello-glossary">
+		<match value="Othello"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#parolles">
+		<match value="Parolles"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#paulina">
+		<match value="Paulina"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pentapolis">
+		<match value="Pentapolis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#perdita">
+		<match value="Perdita"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pericles-glossary">
+		<match value="Pericles"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#petruchio">
+		<match value="Petruchio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#phoenix">
+		<match value="Phoenix"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pisanio">
+		<match value="Pisanio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#polixines">
+		<match value="Polixines">
+			<value value="Polixenes"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#polonius">
+		<match value="Polonius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#portia">
+		<match value="Portia"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#proteus">
+		<match value="Proteus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#regan">
+		<match value="Regan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#roderigo">
+		<match value="Roderigo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romano">
+		<match value="Romano"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romeo">
+		<match value="Romeo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rosalind">
+		<match value="Rosalind"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rosaline">
+		<match value="Rosaline"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rousillon">
+		<match value="Rousillon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sebastian">
+		<match value="Sebastian"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sempronius">
+		<match value="Sempronius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#simonides">
+		<match value="Simonides"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#solinus">
+		<match value="Solinus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sycorax">
+		<match value="Sycorax"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#syracuse">
+		<match value="Syracuse"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#thaisa">
+		<match value="Thaisa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#thaliard">
+		<match value="Thaliard"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#thurio">
+		<match value="Thurio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#timon">
+		<match value="Timon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#titania">
+		<match value="Titania"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tybalt">
+		<match value="Tybalt"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ursula">
+		<match value="Ursula"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#venetian">
+		<match value="Venetian"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#venice">
+		<match value="Venice"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ventidius">
+		<match value="Ventidius"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#verona">
+		<match value="Verona"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vicentio">
+		<match value="Vicentio"/>
+	</search-key-group>
+</search-key-map>
