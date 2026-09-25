@@ -228,16 +228,14 @@
 	<search-key-group href="text/glossary.xhtml#lear">
 		<match value="Lear"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#leodovico">
-		<match value="Leodovico">
-			<value value="Lodovico"/>
-		</match>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#leonato">
 		<match value="Leonato"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#leontes">
 		<match value="Leontes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lodovico">
+		<match value="Lodovico"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#luciana">
 		<match value="Luciana"/>
@@ -341,10 +339,8 @@
 	<search-key-group href="text/glossary.xhtml#pisanio">
 		<match value="Pisanio"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#polixines">
-		<match value="Polixines">
-			<value value="Polixenes"/>
-		</match>
+	<search-key-group href="text/glossary.xhtml#polixenes">
+		<match value="Polixenes"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#polonius">
 		<match value="Polonius"/>
