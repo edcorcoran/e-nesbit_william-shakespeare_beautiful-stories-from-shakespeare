@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 520">
-	<title>The titlepage for the Standard Ebooks edition of Beautiful Stories from Shakespeare, by E. Nesbit and William Shakespeare</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 770">
+	<title>The titlepage for the Standard Ebooks edition of Beautiful Stories from Shakespeare, by E. Nesbit and William Shakespeare. Illustrated by Max Bihn</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -15,9 +15,22 @@
 		.author{
 			font-size: 70.17543793px;
 		}
+
+		.contributor-descriptor{
+			font-family: "OFL Sorts Mill Goudy";
+			font-size: 42.5079689px;
+			font-style: italic;
+			letter-spacing: 0;
+		}
+
+		.contributor{
+			font-size: 46.78362656px;
+		}
 	</style>
 	<text class="title" x="700" y="130">BEAUTIFUL STORIES</text>
 	<text class="title" x="700" y="230">FROM SHAKESPEARE</text>
 	<text class="author" x="700" y="390">E. NESBIT</text>
 	<text class="author" x="700" y="470">WILLIAM SHAKESPEARE</text>
+	<text class="contributor-descriptor" x="700" y="660">illustrated by</text>
+	<text class="contributor" x="700" y="720">MAX BIHN</text>
 </svg>
